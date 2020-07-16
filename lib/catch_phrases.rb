@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-   phrase
-   status
-   output
+   puts mario
+   puts toadstool
+   puts link
 end
