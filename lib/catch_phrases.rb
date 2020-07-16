@@ -17,5 +17,5 @@ def all_phrases
   phrase
   status
   output
-  
+
 end
